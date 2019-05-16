@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="506479" started-at="2019-05-15T10:43:00 CDT" finished-at="2019-05-15T10:51:27 CDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="506479" started-at="2019-05-15T10:43:00 CDT" finished-at="2019-05-15T10:51:27 CDT">
+      <class name="com.merctours.qa.testcases.BookingConfPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="setUp" is-config="true" duration-ms="46736" started-at="2019-05-15T10:43:00 CDT" finished-at="2019-05-15T10:43:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="BkgConfPageTitleTest()[pri:1, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="BkgConfPageTitleTest" duration-ms="12" started-at="2019-05-15T10:43:47 CDT" finished-at="2019-05-15T10:43:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BkgConfPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-05-15T10:43:47 CDT" finished-at="2019-05-15T10:43:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="setUp" is-config="true" duration-ms="37984" started-at="2019-05-15T10:45:28 CDT" finished-at="2019-05-15T10:46:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bkgconfmsg()[pri:2, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="bkgconfmsg" duration-ms="74" started-at="2019-05-15T10:46:06 CDT" finished-at="2019-05-15T10:46:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bkgconfmsg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:46:06 CDT" finished-at="2019-05-15T10:46:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="setUp" is-config="true" duration-ms="36627" started-at="2019-05-15T10:50:49 CDT" finished-at="2019-05-15T10:51:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="logout" duration-ms="616" started-at="2019-05-15T10:51:26 CDT" finished-at="2019-05-15T10:51:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.BookingConfPageTest@1fa1d9b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:51:27 CDT" finished-at="2019-05-15T10:51:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merctours.qa.testcases.BookingConfPageTest -->
+      <class name="com.merctours.qa.testcases.FlightSelectionPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="setUp" is-config="true" duration-ms="32533" started-at="2019-05-15T10:44:42 CDT" finished-at="2019-05-15T10:45:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FlightSelectionPageTitleTest()[pri:1, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="FlightSelectionPageTitleTest" duration-ms="8" started-at="2019-05-15T10:45:14 CDT" finished-at="2019-05-15T10:45:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightSelectionPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:45:14 CDT" finished-at="2019-05-15T10:45:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="setUp" is-config="true" duration-ms="36867" started-at="2019-05-15T10:49:55 CDT" finished-at="2019-05-15T10:50:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flightseltest()[pri:2, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="flightseltest" duration-ms="499" started-at="2019-05-15T10:50:32 CDT" finished-at="2019-05-15T10:50:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightseltest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightSelectionPageTest@3884b2]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:50:33 CDT" finished-at="2019-05-15T10:50:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merctours.qa.testcases.FlightSelectionPageTest -->
+      <class name="com.merctours.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="setUp" is-config="true" duration-ms="14200" started-at="2019-05-15T10:45:14 CDT" finished-at="2019-05-15T10:45:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="loginPageTitleTest" duration-ms="11" started-at="2019-05-15T10:45:28 CDT" finished-at="2019-05-15T10:45:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:45:28 CDT" finished-at="2019-05-15T10:45:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="setUp" is-config="true" duration-ms="13650" started-at="2019-05-15T10:50:33 CDT" finished-at="2019-05-15T10:50:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="loginTest" duration-ms="3038" started-at="2019-05-15T10:50:46 CDT" finished-at="2019-05-15T10:50:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.LoginPageTest@1275dab]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:50:49 CDT" finished-at="2019-05-15T10:50:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merctours.qa.testcases.LoginPageTest -->
+      <class name="com.merctours.qa.testcases.FlightBookingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="38356" started-at="2019-05-15T10:43:47 CDT" finished-at="2019-05-15T10:44:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FlightBkgPageTitleTest()[pri:1, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="FlightBkgPageTitleTest" duration-ms="8" started-at="2019-05-15T10:44:26 CDT" finished-at="2019-05-15T10:44:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightBkgPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:44:26 CDT" finished-at="2019-05-15T10:44:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="37261" started-at="2019-05-15T10:46:09 CDT" finished-at="2019-05-15T10:46:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setpassdetails(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setpassdetails" duration-ms="770" started-at="2019-05-15T10:46:46 CDT" data-provider="getTestData" finished-at="2019-05-15T10:46:47 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zach]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Benedict]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.88484443393884E15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpassdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-05-15T10:46:47 CDT" finished-at="2019-05-15T10:46:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="36276" started-at="2019-05-15T10:46:47 CDT" finished-at="2019-05-15T10:47:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setpassdetails(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setpassdetails" duration-ms="843" started-at="2019-05-15T10:47:23 CDT" data-provider="getTestData" finished-at="2019-05-15T10:47:24 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Matt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Farrel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.56738383838383E15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpassdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:47:24 CDT" finished-at="2019-05-15T10:47:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="34246" started-at="2019-05-15T10:47:24 CDT" finished-at="2019-05-15T10:47:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setpassdetails(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setpassdetails" duration-ms="630" started-at="2019-05-15T10:47:58 CDT" data-provider="getTestData" finished-at="2019-05-15T10:47:59 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ian]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thornton]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.38392092020202E15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpassdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-05-15T10:47:59 CDT" finished-at="2019-05-15T10:47:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="36360" started-at="2019-05-15T10:47:59 CDT" finished-at="2019-05-15T10:48:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setpassdetails(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setpassdetails" duration-ms="534" started-at="2019-05-15T10:48:35 CDT" data-provider="getTestData" finished-at="2019-05-15T10:48:36 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Elizabeth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cameron]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.39393939393939E15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpassdetails -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setUp" is-config="true" duration-ms="37064" started-at="2019-05-15T10:48:36 CDT" finished-at="2019-05-15T10:49:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:48:36 CDT" finished-at="2019-05-15T10:48:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setpassdetails(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="setpassdetails" duration-ms="629" started-at="2019-05-15T10:49:13 CDT" data-provider="getTestData" finished-at="2019-05-15T10:49:13 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kristi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sullivan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.38388494474282E15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpassdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightBookingPageTest@d25987]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:49:13 CDT" finished-at="2019-05-15T10:49:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merctours.qa.testcases.FlightBookingPageTest -->
+      <class name="com.merctours.qa.testcases.FlightSearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="setUp" is-config="true" duration-ms="16042" started-at="2019-05-15T10:44:26 CDT" finished-at="2019-05-15T10:44:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FlightSearchPageTitleTest()[pri:1, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="FlightSearchPageTitleTest" duration-ms="4" started-at="2019-05-15T10:44:42 CDT" finished-at="2019-05-15T10:44:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightSearchPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:44:42 CDT" finished-at="2019-05-15T10:44:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="setUp" is-config="true" duration-ms="23019" started-at="2019-05-15T10:49:13 CDT" finished-at="2019-05-15T10:49:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchflighttest()[pri:2, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="searchflighttest" duration-ms="19102" started-at="2019-05-15T10:49:36 CDT" finished-at="2019-05-15T10:49:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchflighttest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.merctours.qa.testcases.FlightSearchPageTest@101b7af]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-15T10:49:55 CDT" finished-at="2019-05-15T10:49:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.merctours.qa.testcases.FlightSearchPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

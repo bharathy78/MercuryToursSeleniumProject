@@ -1,0 +1,5 @@
+com\merctours\qa\testcases\LoginPageTest.class
+com\merctours\qa\testcases\FlightSelectionPageTest.class
+com\merctours\qa\testcases\FlightBookingPageTest.class
+com\merctours\qa\testcases\BookingConfPageTest.class
+com\merctours\qa\testcases\FlightSearchPageTest.class

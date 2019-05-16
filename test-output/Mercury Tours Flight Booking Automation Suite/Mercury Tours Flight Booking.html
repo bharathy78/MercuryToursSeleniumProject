@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>TestNG:  Mercury Tours Flight Booking</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Mercury Tours Flight Booking</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>15/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue May 14 23:38:10 CDT 2019</td>
+</tr>
+<tr><td>Total time:</td><td>438 seconds (438575 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.merctours.qa.testcases.BookingConfPageTest.BkgConfPageTitleTest()'><b>BkgConfPageTitleTest</b><br>Test class: com.merctours.qa.testcases.BookingConfPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.BookingConfPageTest@3d299e3</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.FlightBkgPageTitleTest()'><b>FlightBkgPageTitleTest</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightSearchPageTest.FlightSearchPageTitleTest()'><b>FlightSearchPageTitleTest</b><br>Test class: com.merctours.qa.testcases.FlightSearchPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightSearchPageTest@3b2da18f</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightSelectionPageTest.FlightSelectionPageTitleTest()'><b>FlightSelectionPageTitleTest</b><br>Test class: com.merctours.qa.testcases.FlightSelectionPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightSelectionPageTest@5906ebcb</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.BookingConfPageTest.bkgconfmsg()'><b>bkgconfmsg</b><br>Test class: com.merctours.qa.testcases.BookingConfPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.BookingConfPageTest@3d299e3</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightSelectionPageTest.flightseltest()'><b>flightseltest</b><br>Test class: com.merctours.qa.testcases.FlightSelectionPageTest</td>
+<td></td>
+<td>1</td>
+<td>com.merctours.qa.testcases.FlightSelectionPageTest@5906ebcb</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.LoginPageTest.loginPageTitleTest()'><b>loginPageTitleTest</b><br>Test class: com.merctours.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.LoginPageTest@6b419da</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: com.merctours.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>2</td>
+<td>com.merctours.qa.testcases.LoginPageTest@6b419da</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.BookingConfPageTest.logout()'><b>logout</b><br>Test class: com.merctours.qa.testcases.BookingConfPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.BookingConfPageTest@3d299e3</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightSearchPageTest.searchflighttest()'><b>searchflighttest</b><br>Test class: com.merctours.qa.testcases.FlightSearchPageTest</td>
+<td></td>
+<td>18</td>
+<td>com.merctours.qa.testcases.FlightSearchPageTest@3b2da18f</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.setpassdetails()'><b>setpassdetails</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest<br>Parameters: Zach, Benedict, 4.88484443393884E15</td>
+<td></td>
+<td>1</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.setpassdetails()'><b>setpassdetails</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest<br>Parameters: Matt, Farrel, 4.56738383838383E15</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.setpassdetails()'><b>setpassdetails</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest<br>Parameters: Ian, Thornton, 8.38392092020202E15</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.setpassdetails()'><b>setpassdetails</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest<br>Parameters: Elizabeth, Cameron, 9.39393939393939E15</td>
+<td></td>
+<td>1</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+<tr>
+<td title='com.merctours.qa.testcases.FlightBookingPageTest.setpassdetails()'><b>setpassdetails</b><br>Test class: com.merctours.qa.testcases.FlightBookingPageTest<br>Parameters: Kristi, Sullivan, 8.38388494474282E15</td>
+<td></td>
+<td>0</td>
+<td>com.merctours.qa.testcases.FlightBookingPageTest@258e2e41</td></tr>
+</table><p>
+</body>
+</html>

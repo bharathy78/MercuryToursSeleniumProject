@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Mercury Tours Flight Booking Automation Suite]">
+  <test thread-count="5" name="Mercury Tours Flight Booking(failed)">
+    <classes>
+      <class name="com.merctours.qa.testcases.FlightSearchPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="searchflighttest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.merctours.qa.testcases.FlightSearchPageTest -->
+      <class name="com.merctours.qa.testcases.BookingConfPageTest">
+        <methods>
+          <include name="logout"/>
+          <include name="BkgConfPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="bkgconfmsg"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.merctours.qa.testcases.BookingConfPageTest -->
+      <class name="com.merctours.qa.testcases.FlightBookingPageTest">
+        <methods>
+          <include name="setpassdetails"/>
+          <include name="tearDown"/>
+          <include name="FlightBkgPageTitleTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.merctours.qa.testcases.FlightBookingPageTest -->
+      <class name="com.merctours.qa.testcases.FlightSelectionPageTest">
+        <methods>
+          <include name="flightseltest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="FlightSelectionPageTitleTest"/>
+        </methods>
+      </class> <!-- com.merctours.qa.testcases.FlightSelectionPageTest -->
+    </classes>
+  </test> <!-- Mercury Tours Flight Booking(failed) -->
+</suite> <!-- Failed suite [Mercury Tours Flight Booking Automation Suite] -->
